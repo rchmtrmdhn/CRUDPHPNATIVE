@@ -1,2 +1,5 @@
-# dataentryproject
-Website untuk mendata guru dan sekolah
+# DATA ENTRY SEKOLAH DAN GURU
+- CRUD data ekolah
+- CRUD data guru
+- CRUD file project
+- Timeline project 
